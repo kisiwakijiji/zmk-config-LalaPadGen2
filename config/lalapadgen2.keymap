@@ -132,8 +132,8 @@
             display-name = "Default";
             bindings = <
             &kp Q  &kp L  &kp U  &kp COMMA  &kp PERIOD  &kp F  &kp W  &kp R  &kp Y  &kp P
-            &td2  &kp I  &kp A  &kp O  &kp SQT  &kp K  &kp T  &kp N  &kp S  &kp N
-            &td0  &kp X  &kp C  &kp V  &kp SLASH  &kp G  &kp D  &kp M  &kp J  &td1
+            &td2  &kp I  &kp A  &kp O  &kp MINUS  &kp K  &kp T  &kp N  &kp S  &kp H
+            &td0  &kp X  &kp C  &kp V  &kp SEMI  &kp G  &kp D  &kp M  &kp J  &td1
             &kp LEFT_CONTROL  &kp LWIN  &kp LEFT_ALT  &td3  &td4  &td5  &kp BACKSPACE  &td6  &mo 3  &kp RIGHT_ALT  &kp RWIN  &kp RIGHT_CONTROL
             &none  &kp RIGHT  &kp DOWN  &kp LEFT  &kp UP  &kp UP  &kp LEFT  &kp DOWN  &kp RIGHT  &none
             &mkp LCLK  &mkp RCLK  &mkp MCLK  &mkp LCLK  &mkp RCLK  &mkp MCLK
